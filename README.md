@@ -57,6 +57,12 @@ Before Delete         |  After Delete
 :-------------------------:|:-------------------------:
 ![](https://github.com/basilsv/Siva_Test_ReactJS_With_Components/blob/main/images/Patient_Listings.png)  |  ![](https://github.com/basilsv/Siva_Test_ReactJS_With_Components/blob/main/images/After_Delete.png)
 
+Below is the Running of Running test cases by ====> npm run test [In my case used sudo npm start --because of some folder permissions].
+
+Running Tests for UI Components         |  Tests Passed
+:-------------------------:|:-------------------------:
+![](https://github.com/basilsv/Siva_Test_ReactJS_With_Components/blob/main/images/Running_Test.png)  |  ![](https://github.com/basilsv/Siva_Test_ReactJS_With_Components/blob/main/images/Tests_Passed.png)
+
 
 
 

@@ -1,4 +1,4 @@
-# Siva Test ReactJS FrontEnd Preview
+# Siva Test ReactJS FrontEnd
 
 Instructions to Run:
 

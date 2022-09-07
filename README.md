@@ -4,9 +4,10 @@ Instructions to Run:
 
 1. git clone repo
 2. cd into [ProjectDirecotory i.e Directory that contains App.js]
-3. To Run App : ** [Assumed server is already running and on http://localhost:5000/listings ] **. ====> npm start
-4. To Run Test Cases : Test Cases [AddPatientButton, App Render Test, ButtonClick ]   =======> npm run test [Had To Use sudo permissions for me]
-5. To Get React Version : npm view react version
+3. To Install NPM paclages :  ====> npm install
+4. To Run App : ** [Assumed server is already running and on http://localhost:5000/listings ] **. ====> npm start
+5. To Run Test Cases : Test Cases [AddPatientButton, App Render Test, ButtonClick ]   =======> npm run test [Had To Use sudo permissions for me]
+6. To Get React Version : npm view react version
 
 ## NPM Dev Environment Configuration for reference
 
